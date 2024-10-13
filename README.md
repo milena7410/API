@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # dio-laravel-api
 Projeto Laravel: construindo uma API do zero, na LiveCoding da DIO em 06/04
 
@@ -18,3 +19,7 @@ Saber as rotas disponíveis:
 ```
 php artisan route:list
 ```
+=======
+# API
+API em Laravel
+>>>>>>> 18172d7280e8623ee768ebfe31fc082d8fea6f48
