@@ -1,7 +1,7 @@
 Primera API em Laravel
 
 
-1. Instalar o PHP (7.1 para esse projeto)
+1. Instalar o PHP v>=7.1
 2. Instalar o Composer
 
 Após clonar o projeto, rodar na pasta:
